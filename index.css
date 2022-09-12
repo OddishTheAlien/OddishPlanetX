@@ -1,0 +1,19 @@
+.hl { font-size: 20px; }
+.hl {text-align: center;}
+.hl {
+  color: chartreuse;   
+  margin: auto;
+  padding: 50px;
+  font-family: 'Courier New', Monospace;  
+}
+.pg { font-size: 15px; }
+.pg {text-align: center;}
+.pg {
+  color: darkorchid;   
+  margin: auto;
+  padding: 0px;
+  font-family: 'Courier New', Monospace;  
+}
+body {
+  background-color: #36393f;
+}
